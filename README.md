@@ -1,4 +1,4 @@
-# Terraform and Ansible Project: Infrastructure Automation with GitOps
+# Terraform and Ansible Project: Infrastructure Automation 
 
 ## Project Overview
 This project aims to build infrastructure using Terraform across two availability zones (AZs), configure Docker on private instances using Ansible, and automate deployment using GitOps practices. The CI/CD pipeline is implemented using Jenkins, GitHub Actions, or GitLab Pipelines.
