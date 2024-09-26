@@ -91,8 +91,6 @@ Configure security groups to allow:
   - **GitHub Actions**: Define the pipeline using a `.yaml` configuration file.
   - **GitLab Pipelines**: Set up the pipeline with a `.gitlab-ci.yml` file.
 
----
 
-## Conclusion
-This project provides a comprehensive solution for automating infrastructure setup, application deployment, and container orchestration using Terraform, Ansible, and Docker. The entire process is managed via GitOps practices and integrated into a CI/CD pipeline, ensuring smooth, automated deployments.
+
 
